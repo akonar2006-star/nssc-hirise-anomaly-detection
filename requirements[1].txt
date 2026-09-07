@@ -1,0 +1,3 @@
+# Core dependencies identified in the project report
+torch
+scikit-learn
